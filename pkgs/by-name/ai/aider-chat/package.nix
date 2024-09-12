@@ -48,9 +48,11 @@ python3.pkgs.buildPythonApplication {
       numpy
       packaging
       pathspec
+      pexpect
       pillow
       playwright
       prompt-toolkit
+      ptyprocess
       pypager
       pypandoc
       pyperclip
